@@ -1,4 +1,5 @@
-# Csapatmunka(Készítette: Esses Kevin, Follardt Áron, Jelencsity Miki,
+# Csapatmunka(Készítette: Esses Kevin, Follardt Áron, Jelencsity Miki)
+
 
 [Fafestékek.docx](https://github.com/JelencsityMiklous/csapatmunka10/files/10083546/Fafestekek.docx)
 
