@@ -19,3 +19,30 @@ body{
   height:10cm;
   width:10cm;
 }
+#Esses{
+  color: #333;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight:300;
+  font-size: 32px;
+  text-align: justify;
+  opacity: 5px;
+  font-size: 14px;
+}
+#Jelencsity{
+  color: #333;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight:300;
+  font-size: 32px;
+  opacity: 5px;
+  font-size: 14px;
+  text-align: justify;
+}
+#Follárdt{
+  color: #333;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight:300;
+  text-align: justify;
+  font-size: 32px;
+  opacity: 5px;
+  font-size: 14px;
+}
