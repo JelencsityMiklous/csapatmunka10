@@ -1,0 +1,23 @@
+.aszf{
+    background-image: url(https://cdn.pixabay.com/photo/2021/09/16/22/12/coffee-6631154_960_720.jpg);
+    position: relative;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: left;
+    opacity: 80%;
+    padding-top: 6%;
+    margin-top: 0%;
+    height: 26cm;
+  }
+  
+  .szerzodes{
+    background-height: 150%;
+    background-color: black;
+    color: white;
+    margin-left: 5%;
+    text-align: left;
+    font-size: 50%;
+    line-height: 3%;
+  }
