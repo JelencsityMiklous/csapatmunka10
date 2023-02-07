@@ -3,21 +3,21 @@ body{
 }
 #Kevin{
   padding:90px;
-  text-align:center;
-  height:10cm;
-  width:10cm;
+  text-align:left;
+  height: 15cm;
+  width:12cm;
 }
 #Miki{
   padding:90px;
   text-align:center;
-  height:10cm;
-  width:10cm;
+  height:15cm;
+  width:12cm;
 }
 #Áron{
   padding:90px;
-  text-align:center;
-  height:10cm;
-  width:10cm;
+  text-align:right;
+  height:15cm;
+  width:12cm;
 }
 #Esses{
   color: #333;
